@@ -1,2 +1,1 @@
-# golearning
-learning some go stuff
+# goLearning

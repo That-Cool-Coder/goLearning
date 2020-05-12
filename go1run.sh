@@ -1,0 +1,1 @@
+go run Go1.go
